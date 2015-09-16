@@ -1,0 +1,157 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font: .8rem Verdana, Sans-Serif;
+  background: #eee;
+
+
+}
+
+.container{
+  margin: 50px auto;
+  width: 800px;
+}
+
+.write {
+  margin: 0 auto;
+  margin-left: 5px;
+  padding: 5px;
+  width: 780px;
+  height: 210px;
+  font: 1.2rem Verdana, Sans-Serif;
+  background: #fff;
+  border: 1px solid #f9f9f9;
+  border-radius: 5px;
+}
+
+.keyboard {
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+}
+
+.symbol {
+  display: inline-block;
+  list-style: none;
+  width: 40px;
+  height: 40px;
+  background-color: #fff;
+  text-align: center;
+  line-height: 2.4rem;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+
+.letter {
+  display: inline-block;
+  list-style: none;
+  width: 40px;
+  height: 40px;
+  background-color: #fff;
+  text-align: center;
+  line-height: 2.4rem;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+
+.delete {
+  display: inline-block;
+  list-style: none;
+  margin: 5px;
+  text-align: center;
+  width: 82px;
+  height: 40px;
+  line-height: 2.4rem;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+
+.tab {
+  display: inline-block;
+  list-style: none;
+  margin: 5px;
+  text-align: center;
+  width: 82px;
+  height: 40px;
+  line-height: 2.4rem;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+
+.capslock {
+  display: inline-block;
+  list-style: none;
+  margin: 5px;
+  text-align: center;
+  width: 89px;
+  height: 40px;
+  line-height: 2.4rem;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+
+.return {
+  display: inline-block;
+  list-style: none;
+  margin: 5px;
+  text-align: center;
+  width: 89px;
+  height: 40px;
+  line-height: 2.4rem;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+
+.left-shift {
+  display: inline-block;
+  list-style: none;
+  margin: 5px;
+  text-align: center;
+  width: 115px;
+  height: 40px;
+  line-height: 2.4rem;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+
+.right-shift {
+  display: inline-block;
+  list-style: none;
+  margin: 5px;
+  text-align: center;
+  width: 115px;
+  height: 40px;
+  line-height: 2.4rem;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+
+.spacebar {
+  width: 790px;
+  height: 40px;
+  background-color: #fff;
+  display: inline-block;
+  list-style: none;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+
+.lastitem {
+  margin-right: 0px;
+}
+
+
+.on {
+  display: none;
+}
